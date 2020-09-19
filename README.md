@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mykamapolice.github.io/rsschool-cv/cv
