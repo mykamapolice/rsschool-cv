@@ -8,4 +8,4 @@
    * Gdansk University of Technology - Sea Transport
    * course - Sustainable Development of the Baltic region
    * Diploma of the music school in the guitar class
-8. English level B2, I am mentor on ERASMUS program.
+8. English level B1, I am mentor on ERASMUS program.
