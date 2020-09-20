@@ -2,7 +2,7 @@
 2. *[facebook](https://www.facebook.com/ilya.barachenia/)* | *email: ilya.barachenia@gmail.com*
 3. I live and study in Poland. I have no experience in IT, but I have a great desire and I always achieve my goals. I am a mentor for international students so i'm a good communicator, adapt easily and learn quickly.
 4. I know 3 languages, play the guitar and doing spotrs :).
-5. ``` alert ('privet mir') ```
+5. ``` alert ('privet mir'); ```
 6. cs50 course, book : learn programming javascript.
 7. * Belarus State Economic University - Economics and management at the enterprise 
    * Gdansk University of Technology - Sea Transport
